@@ -12,6 +12,8 @@ As an attempt to address this problem, I have created SonicSight AR.  This devic
 
 ![](https://raw.githubusercontent.com/nickbild/visual_alert/main/media/all_hw_sm.jpg)
 
+![](https://raw.githubusercontent.com/nickbild/visual_alert/main/media/in_case_sm.jpg)
+
 ![](https://raw.githubusercontent.com/nickbild/visual_alert/main/media/case_w_strap_sm.jpg)
 
 ![](https://raw.githubusercontent.com/nickbild/visual_alert/main/media/glasses_sm.jpg)
