@@ -1,5 +1,7 @@
 # SonicSight AR
 
+![](https://raw.githubusercontent.com/nickbild/visual_alert/main/media/monocle_display_sm.jpg)
+
 Hearing-impaired people face significant challenges due to their inability to perceive auditory cues, such as emergency sirens, alarms, and traffic sounds. These cues are essential for alerting people to potential dangers and ensuring their safety. Without auditory awareness, hearing-impaired people may not be aware of approaching emergency vehicles, fire alarms, or even oncoming traffic, which can lead to life-threatening situations.
 
 According to the World Health Organization, around 466 million people worldwide have disabling hearing loss, which accounts for approximately 5% of the global population. In the United States alone, the Centers for Disease Control and Prevention reported that about 15% of adults aged 18 and over experience some degree of hearing loss.
@@ -17,8 +19,6 @@ When one of the sounds is recognized, the Photon 2 will send a program to a Bril
 The Photon 2, microphone, and battery were placed inside a 3D printed case.  A velcro strap was attached to the case such that it could be attached to a belt.
 
 ## Media
-
-![](https://raw.githubusercontent.com/nickbild/visual_alert/main/media/monocle_display_sm.jpg)
 
 ![](https://raw.githubusercontent.com/nickbild/visual_alert/main/media/all_hw_sm.jpg)
 
