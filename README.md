@@ -7,3 +7,7 @@ According to the World Health Organization, around 466 million people worldwide 
 As an attempt to address this problem, I have created SonicSight AR.  This device uses machine learning to recognize sounds, like emergency vehicles and various types of alarms.  When these sounds are detected, the user of SonicSight AR is alerted to that fact via a message that floats within their visual field through the use of a low-cost augmented reality display.  SonicSight AR also solves some other unique problems often experienced by the hearing-impaired — it also detects footsteps and talking to prevent the wearer from being startled when someone approaches unexpectedly.
 
 ![](https://raw.githubusercontent.com/nickbild/visual_alert/main/media/monocle_display_sm.jpg)
+
+![](https://raw.githubusercontent.com/nickbild/visual_alert/main/media/all_hw_sm.jpg)
+
+![](https://raw.githubusercontent.com/nickbild/visual_alert/main/media/wearing_sm.jpg)
