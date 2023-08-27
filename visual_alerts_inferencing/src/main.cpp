@@ -59,7 +59,7 @@ void setup()
     // put your setup code here, to run once:
 
     // Wait for serial to make it easier to see the serial logs at startup.
-    waitFor(Serial.isConnected, 15000);
+    waitFor(Serial.isConnected, 4000);
     delay(2000);
 
     ei_printf("Edge Impulse inference runner for Particle devices\r\n");
@@ -200,7 +200,8 @@ void print_inference_result(ei_impulse_result_t result) {
             if (peer.connected()) {
                 rx_characteristic.setValue("\x01");
                 rx_characteristic.setValue("import display\n");
-                rx_characteristic.setValue("tt = display.Text(\"Alert: ");
+                rx_characteristic.setValue("display.clear()\n");
+                rx_characteristic.setValue("tt = display.Text(\"");
                 rx_characteristic.setValue(ei_classifier_inferencing_categories[i]);
                 rx_characteristic.setValue(" detected!\", 150, 150, 0xffffff)\n");
                 rx_characteristic.setValue("display.show(tt)\n");
