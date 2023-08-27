@@ -10,7 +10,7 @@ In an attempt to address this problem, I have created SonicSight AR.  This devic
 
 ## How It Works
 
-The Particle Photon 2 development board is wired to a supported PDM MEMS microphone that comes with the Edge ML Kit for Photon 2.  Wiring diagrams can be found in the documentation.  After development is completed, this hardware can be powered by a LiPo battery (a 400 mAh battery was used in this project).
+The Particle Photon 2 development board is wired to a supported PDM MEMS microphone that comes with the Edge ML Kit for Photon 2.  After development is completed, this hardware can be powered by a LiPo battery (a 400 mAh battery was used in this project).
 
 An audio classification neural network was developed with Edge Impulse Studio to distinguish between eight types of sounds (ambulance, danger alarm, fire alarm, firetruck, footsteps, gas alarm, talking, traffic sounds), as well as normal background noises.
 
