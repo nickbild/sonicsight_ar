@@ -27,6 +27,7 @@ As an attempt to address this problem, I have created SonicSight AR.  This devic
 - 1 x Brilliant Labs Monocle
 - 1 x 400 mAh LiPo battery
 - optional 3D printed case and lid
+- optional velcro strap
 
 ## About the Author
 [Nick A. Bild, MS](https://nickbild79.firebaseapp.com/#!/)
